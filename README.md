@@ -12,9 +12,9 @@ this is a simple project, and a part of my studies/homeworks in SHARIF universit
 ## how to use:
 1. install python and pip
 2. run:
-    ``` pip install requirments ```
+    ``` pip install -r requirements.txt ```
 3. edit the main.py for your problem
 4. run:
     ``` python main.py ```
 
-in some systems you should run pip3 or python3
+in some systems you should run ```pip3``` or ```python3```
